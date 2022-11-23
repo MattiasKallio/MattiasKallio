@@ -5,7 +5,8 @@ Everything at once, but it's mostly job-stuff right now, probably some new API t
 - 💞️ I’m looking to collaborate on ...
 
 - 📫 How to reach me<br />
-<a href="https://snillrik.se">snilrik.se</a> <a href="https://webbigt.se">webbigt.se</a><br />
+<a href="https://snillrik.se">snillrik.se</a>
+<a href="https://webbigt.se">webbigt.se</a><br />
 <a href="mailto:kallio@snillrik.se">kallio@snilrik.se</a>
 
 <!---
