@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MattiasKallio
-- 👀 I’m interested in <br />Drones, eating and all kinds of coding.
+- 👀 I’m mostly WordPress-expert-nerdy-nerd that help people with custom things in WP and when things don't work. So if things are not working i WP, I'm the guy you need. :)
 - 🌱 I’m currently learning<br />
-Everything at once, but it's mostly job-stuff right now, probably some new API that I'm trying to get WordPress to talk to. :)
-- 💞️ I’m looking to collaborate on ...
+Everything at once, but it's a lot of Arduino, 3D-printers etc. right now, I'm not really a C++ coder any more, but it's fun with micro controllers.
 
 - 📫 How to reach me<br />
 <a href="https://snillrik.se">snillrik.se</a>
